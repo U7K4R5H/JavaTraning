@@ -5,7 +5,7 @@ public class Menu {
     throws java.io.IOException {
     int choice;
     Scanner sc = new Scanner(System.in);
- 
+    System.out.println("Main method starts");
     while(true)
     {
       System.out.println("\n\n-------Syntax Generator for ------------");
